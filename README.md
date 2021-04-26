@@ -1,4 +1,12 @@
-# Stereo Tuner
+# OpenCV4 Stereo Tuner
+
+This is a quick upgrade to guimeira/stereo-tuner to fix compilation in OpenCV 4.
+This is not backwards compatible with other versions of OpenCV.
+
+
+
+
+# Original README: Stereo Tuner
 This is my modified version of [Martin Peris](http://blog.martinperis.com/)'s [StereoBM Tuner](http://blog.martinperis.com/2011/08/opencv-stereo-matching.html).
 
 This is a simple little GTK application that can be used to tune parameters for the [OpenCV](http://opencv.org/) Stereo Vision algorithms.
